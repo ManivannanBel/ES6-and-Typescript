@@ -1,4 +1,5 @@
 //Let declaration is not hoisted
+//Variables declared with let is only has its scope to its own block
 var a = 2
 var b = 3
 if(a === 2){
