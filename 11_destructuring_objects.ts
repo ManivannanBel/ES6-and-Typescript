@@ -1,6 +1,6 @@
 let obj = {
     fname:"emily",
-    lname:'wilson'
+    lname:'wilson',
     gender:'female'
 }
 
